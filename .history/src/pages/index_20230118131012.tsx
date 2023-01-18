@@ -52,7 +52,7 @@ export default function Home() {
               </a>
               <a
                 className={styles.button}
-                href="./assets/files/CV - Wassim Baghdadi.pdf"
+                href="./assets/files/CV-Wassim Baghdadi.pdf"
                 download
                 target="_blank"
                 rel="noreferrer noopener"
