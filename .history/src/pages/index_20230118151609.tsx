@@ -14,7 +14,7 @@ export default function Home() {
           content="Programmeur avec un parcours académique totalement orienté en informatique et 3 ans d’expérience professionnelle. Je profite de ma maitrise, rapidité d’exécution et mon esprit d’équipe pour livrer un produit fiable, maintenable et ergonomique."
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="shortcut icon" type="image/x-icon" href="/wassim baghdadi logo.ico" />
       </Head>
       <main>
         <div className={styles.content}>
